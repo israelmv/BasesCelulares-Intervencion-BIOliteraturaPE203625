@@ -22,7 +22,8 @@ El desarrollo de la alfabetización informacional y el dominio técnico de las c
 
 ## 📊 Resultados
 
+La intervención se asoció con un aumento claro del desempeño en el manejo de literatura científica, que fue observable tanto en el desempeño global como en la mayoría de los estudiantes. El cambio no fue inmediato en la primera evaluación posterior, pero se hizo más evidente en las evaluaciones siguientes, lo que sugiere una progresión en la aplicación de las habilidades trabajadas.
 
-### 1. Diagnóstico de Entrada: Una Carencia Estructural de Dominio
-Las tres evaluaciones iniciales ($\text{Pre}_1$, $\text{Pre}_2$, $\text{Pre}_3$) arrojaron un desempeño basal extremadamente bajo ($\text{Promedio} = 0.77$ / $10$). Esto confirma que los estudiantes ingresan con una **carencia estructural en el manejo de literatura científica y mecánica de citación**.
-* **Estabilidad del diagnóstico:** Al evaluar tres tareas consecutivas antes de la instrucción, se demuestra que la baja calificación no fue un hecho fortuito o por falta de tiempo en un trabajo aislado, sino el reflejo fiel de la ausencia de competencias técnicas formales al inicio de la carrera.
+La mejora se presentó en los cinco componentes de la rúbrica, indicando que el cambio no se limitó al uso de Zotero, sino que abarcó distintas prácticas relacionadas con la selección, citación, organización y presentación de literatura científica.
+
+En conjunto, los resultados muestran que el esquema de evaluación desarrollado permitió detectar y caracterizar cambios en las competencias bibliográficas de los estudiantes a distintos niveles, desde el desempeño general hasta componentes específicos de la práctica bibliográfica.
